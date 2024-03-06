@@ -21,7 +21,7 @@ class UserSeeder extends Seeder
                 'fname'=>'Admin BES',
                 'lname'=>'ADMIN BES',
                 'phone'=>'677809159',
-                'email'=>'eaoudou@bfclimited.com',
+                'email'=>'tsd@bfclimited.com',
                 'password'=>Hash::make('adminbes'),
             ]
         ]);
